@@ -1,17 +1,19 @@
+<h1 align="center">Hi 👋, I'm Ayisha Rana K</h1>
 
-# Hi 👋, I'm Ayisha Rana K
-
-A passionate statistician and aspiring data analyst
-
+<p align="center">
+  <b><span style="font-size:20px;">A passionate statistician and aspiring data analyst</span></b>
+</p>
 ---
 
-🌱 I’m currently looking for:  
-**Data Analyst job role**
+- 🌱 I’m currently looking for:**Data Analyst job role**
 
-📝 I recently completed **MSc.Statistics** from **University of Calicut**
+- 📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
-**💡 My interests:**  
-Data Analysis, Visualization, Statistical Modeling, and Real-world Analytics Projects
+- **💡 My interests:** Data Analysis, Visualization, Statistical Modeling, and Real-world Analytics Projects
+
+- 💬 Ask me about **statistics, data analytics, and visualization**
+
+- ⚡ Fun fact: **I love turning raw data into actionable insights!**
 
 **📊 Projects:**  
 - **Premier League Club Investment Analysis:** Used Python & EDA to identify investment-worthy football clubs.  
