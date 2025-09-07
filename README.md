@@ -4,6 +4,7 @@
   <b><span style="font-size:20px;">A passionate statistician and aspiring data analyst</span></b>
 </p>
 
+
 - 🌱 I’m currently looking for: **Data Analyst job role**
 
 - 📝 I recently completed **MSc.Statistics** from **University of Calicut**
@@ -26,6 +27,7 @@
 **📬 How to reach me:**  
 ayisha9759@gmail.com
 
+
 **🔗 Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayisha9759)
 
@@ -47,4 +49,3 @@ ayisha9759@gmail.com
 ---
 
 
-*Ask me about statistics, data analytics, and visualization! Fun fact: I love turning raw data into actionable insights!*
