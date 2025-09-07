@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/159593065?v=4" width="200" style="border-radius: 50%; margin: 8px;" />
-  <img src="https://user-images.githubusercontent.com/159593065/318638649-ae5c3c58-6f8c-4a30-bb1e-9b0f6f1c2a57.jpg" width="200" style="border-radius: 50%; margin: 8px;" />
+  <img src="C:\Users\AYISHA RANA K\Downloads\rana.JPG" width="200" style="border-radius: 50%; margin: 8px;" />
 </p>
 
 # Hi 👋, I'm Ayisha Rana K
