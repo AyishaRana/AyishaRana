@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="rana.JPG" width="200" style="border-radius: 50%; margin: 8px;" />
-</p>
 
 # Hi 👋, I'm Ayisha Rana K
 
