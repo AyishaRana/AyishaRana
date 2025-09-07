@@ -5,8 +5,10 @@ A passionate statistician and aspiring data analyst
 
 ---
 
-**🌱 I’m currently looking for:**  
-Data Analyst job role
+🌱 I’m currently looking for:  
+**Data Analyst job role**
+
+📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
 **💡 My interests:**  
 Data Analysis, Visualization, Statistical Modeling, and Real-world Analytics Projects
