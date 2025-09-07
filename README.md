@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/159593065?v=4" width="200" style="border-radius: 50%; margin: 8px;" />
   <img src="rana.JPG" width="200" style="border-radius: 50%; margin: 8px;" />
 </p>
 
