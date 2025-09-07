@@ -3,9 +3,8 @@
 <p align="center">
   <b><span style="font-size:20px;">A passionate statistician and aspiring data analyst</span></b>
 </p>
----
 
-- 🌱 I’m currently looking for:**Data Analyst job role**
+- 🌱 I’m currently looking for: **Data Analyst job role**
 
 - 📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
