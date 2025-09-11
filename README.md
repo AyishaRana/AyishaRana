@@ -15,9 +15,7 @@
 
 - ⚡ Fun fact: **I love turning raw data into actionable insights!**
 
-**📊 Projects:**  
-- **Premier League Club Investment Analysis:** Used Python & EDA to identify investment-worthy football clubs.  
-- **Fast Food Impacts On Health And Its Quality Control:** Used R, Excel, Power BI, and SPSS to analyze survey data and visualize health outcomes.
+**📊 Projects:**- https://github.com/AyishaRana
 
 **🏆 Achievements:**  
 - University 7th Rank Holder (BSc Statistics)
