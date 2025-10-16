@@ -5,7 +5,7 @@
 </p>
 
 
-- 🌱 Data Analyst
+- 🌱 **Data Analyst**
 
 - 📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
