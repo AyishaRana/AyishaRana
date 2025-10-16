@@ -5,7 +5,7 @@
 </p>
 
 
-- 🌱 I’m currently looking for: **Data Analyst job role**
+- 🌱 Data Analyst
 
 - 📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
