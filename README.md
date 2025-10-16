@@ -5,7 +5,7 @@
 </p>
 
 
-- 🌱 **Data Analyst**
+- 🌱 Working as a **Data Analyst** at **Eduport**
 
 - 📝 I recently completed **MSc.Statistics** from **University of Calicut**
 
